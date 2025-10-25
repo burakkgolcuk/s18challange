@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class FswebS18ChallengeMavenApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(FswebS18ChallengeMavenApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(FswebS18ChallengeMavenApplication.class, args);
+    }
 }
